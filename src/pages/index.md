@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Hi 👋🏼 I'm Rajesh, a web developer.
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Hi 👋🏼 I'm Rajesh, a web developer.
+subheading: Just trying to become a better version of myself every day.
 mainpitch:
   title: Why Kaldi
   description: >
